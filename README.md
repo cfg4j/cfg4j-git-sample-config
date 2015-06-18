@@ -1,4 +1,4 @@
-## Configuration example for [cf4j](http://cfg4j.org)) library
+## Configuration example for [cf4j](http://cfg4j.org) library
 
 ### Usage
 1. You can find **example app** which uses this config [here](https://github.com/cfg4j/cfg4j-sample-apps/tree/master/git-bind)
