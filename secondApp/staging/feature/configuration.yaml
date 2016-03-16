@@ -1,0 +1,9 @@
+databasePool:
+  url: jdbc:mysql://localhost:3306/SomeDb
+  maxPoolSize: 60
+  connectionTimeoutMs: 1000
+  idleTimeoutMs: 120000
+  maxLifetimeMs: 1800000
+
+search:
+  defaultQuery: hey Norbert!
